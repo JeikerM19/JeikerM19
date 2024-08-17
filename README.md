@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my favorite programming language
 - 📫 How to reach me: TheJeiker
 - 😄 Pronouns: He
-- ⚡ Fun fact: I paid for WinRar.
+- ⚡ Fun fact: I paid for WinRar
 
